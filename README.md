@@ -9,15 +9,16 @@
   <hr size=2>  
    There are different kinds of people.Few are listed below:    <hr size=2>    
   <body text= "Red">    
-    <Ol style="color:blue";>    
-      <LI> Introvert</LI>    
+    <Ol>    
+      <LI style="color:blue> Introvert</LI>    
       <LI> Extrovert</LI>    
       <LI> Ambivert</LI>    
       <LI> Workoholic</LI>    
       <LI> Perfectionist</LI>    
     </Ol>    
     <hr size=3>    
-    <UL>       <LI style="color:orange";> Introverts are those people who don't talk to others much <b>"but does the things that are necassary."</b></LI>    
+    <UL>      
+        <LI style="color:orange";> Introverts are those people who don't talk to others much <b>"but does the things that are necassary."</b></LI>    
      <hr size=2>    
     <LI style="color:violet";>  Extroverts are the opposite version of introverts. <b>"That means,he wins in talking but fails in doing."</b></LI>    
       <hr size=2>    

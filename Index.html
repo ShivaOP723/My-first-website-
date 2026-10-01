@@ -1,0 +1,34 @@
+
+<html>
+  <head> 
+      <title>  Types of people </title>    
+    
+  </head>    
+
+    <h1 align=centre>  
+  <hr size=2>  
+   There are different kinds of people.Few are listed below:    <hr size=2>    
+  <body text= "Red">    
+    <Ol style="color:blue";>    
+      <LI> Introvert</LI>    
+      <LI> Extrovert</LI>    
+      <LI> Ambivert</LI>    
+      <LI> Workoholic</LI>    
+      <LI> Perfectionist</LI>    
+    </Ol>    
+    <hr size=3>    
+    <UL>       <LI style="color:orange";> Introverts are those people who don't talk to others much <b>"but does the things that are necassary."</b></LI>    
+     <hr size=2>    
+    <LI style="color:violet";>  Extroverts are the opposite version of introverts. <b>"That means,he wins in talking but fails in doing."</b></LI>    
+      <hr size=2>    
+      <LI style= "color:green";> Ambiverts are a unique combination of introverts and extroverts.I've heard that <b>"they change between introverts and extroverts according to situations"</b></LI>    
+      <hr size=2>
+      <LI style="color:Indigo";> <b> Workoholic people are those people who are obsessed in working. </b></LI>
+      <hr size=2>
+      <LI style="color:gold">  <b>Perfectionist people are those who crave perfection in almost everything</b></LI>
+      <hr size=100>
+    </UL>
+    <p style= "color:brown";> <b>"In conclusion,someone can be introverted and someone can be extroverted."</b></p>
+    <hr size=2>
+    
+  </html>

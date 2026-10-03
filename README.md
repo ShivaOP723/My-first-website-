@@ -31,6 +31,7 @@
     </UL>
     <p style= "color:brown";> <b>"In conclusion,someone can be introverted and someone can be extroverted."</b></p>
     <hr size=2>
-    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7719163445110976"
+     crossorigin="anonymous"></script>
   </html>
 
